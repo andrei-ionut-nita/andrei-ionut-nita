@@ -1,0 +1,7 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Andrei Nita, CTO for Data and AI-driven SaaS">
+  <rect width="1200" height="260" fill="#081027"/>
+  <rect x="0" y="0" width="1200" height="260" fill="none" stroke="#2B2F4A" stroke-width="1"/>
+  <line x1="80" y1="200" x2="220" y2="200" stroke="#C9A05A" stroke-width="1"/>
+  <text x="80" y="140" font-family="Georgia, 'Times New Roman', serif" font-weight="300" font-size="64" letter-spacing="1" fill="#C9A05A">Andrei Nita</text>
+  <text x="80" y="180" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-weight="400" font-size="22" letter-spacing="1" fill="#E0D8D2">CTO for Data and AI-driven SaaS</text>
+</svg>
