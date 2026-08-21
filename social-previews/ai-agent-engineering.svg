@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#081027"/>
+  <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#2B2F4A" stroke-width="2"/>
+  <text x="90" y="140" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="24" letter-spacing="2" fill="#8A94B0">ANDREI-IONUT-NITA</text>
+  <line x1="90" y1="240" x2="230" y2="240" stroke="#C9A05A" stroke-width="2"/>
+  <text x="90" y="330" font-family="Georgia, 'Times New Roman', serif" font-weight="300" font-size="66" letter-spacing="0.5" fill="#C9A05A">ai-agent-engineering</text>
+  <text x="90" y="400" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="28" fill="#E0D8D2">200 small, linear lessons: LangChain, LangGraph,</text>
+  <text x="90" y="440" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="28" fill="#E0D8D2">LangSmith, MCP, pgvector, Pydantic AI.</text>
+  <text x="90" y="560" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" fill="#4A5270">Hands-on AI agent engineering, taught by building.</text>
+</svg>

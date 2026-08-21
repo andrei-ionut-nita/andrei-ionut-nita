@@ -1,0 +1,3 @@
+GitHub status (emoji + short text, shown next to your name)
+
+🛠️ Building AI agent tooling and data platforms
