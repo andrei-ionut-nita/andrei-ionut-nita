@@ -8,7 +8,7 @@ I build lean engineering orgs, data platforms, and AI products that grow ARR and
 
 ### What's here
 
-**[clearfelt](https://github.com/andrei-ionut-nita/clearfelt)**
+**[clearfelt-writing](https://github.com/andrei-ionut-nita/clearfelt-writing)**
 Deterministic Claude Code skill that scores and rewrites AI-sounding writing, backed by a sourced rule dictionary instead of vibes.
 
 **[ai-agent-engineering](https://github.com/andrei-ionut-nita/ai-agent-engineering)**
