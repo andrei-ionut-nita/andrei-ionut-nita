@@ -2,7 +2,7 @@
 
 I build lean engineering orgs, data platforms, and AI products that grow ARR and improve unit economics, for VC-backed SaaS from Series B to D.
 
-`300% delivery speed`&nbsp;&nbsp;`60% cloud cost cut`&nbsp;&nbsp;`1 → 15 team built`
+<code>300%&nbsp;delivery&nbsp;speed</code>&nbsp;&nbsp;<code>60%&nbsp;cloud&nbsp;cost&nbsp;cut</code>&nbsp;&nbsp;<code>1&nbsp;→&nbsp;15&nbsp;team&nbsp;built</code>
 
 Open to CTO and advisory conversations, Series B-D SaaS.
 
