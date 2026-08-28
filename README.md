@@ -22,6 +22,9 @@ Hands-on AI agent engineering course: LangChain, LangGraph, LangSmith, MCP, pgve
 **[issue-search-skill](https://github.com/andrei-ionut-nita/issue-search-skill)**
 A local-first, offline-capable knowledge management system for capturing issues, generating postmortems, and retrieving proven solutions.
 
+**[clearfelt-diagram](https://github.com/andrei-ionut-nita/clearfelt-diagram)**
+Reproducible Mermaid diagrams: render, theme-alias, and Cardinal Rules lint, as a framework-agnostic engine plus a thin Astro adapter.
+
 ---
 
 Full story, case studies, and writing: **[andreinita.co](https://andreinita.co)**
