@@ -16,14 +16,14 @@ Deterministic Claude Code skill that scores and rewrites AI-sounding writing, ba
 **[clearfelt-slides](https://github.com/andrei-ionut-nita/clearfelt-slides)**
 Astro-based slide-deck editor: author decks as plain .astro files, edit them in a live browser inspector, and present straight from the same app.
 
+**[clearfelt-diagram](https://github.com/andrei-ionut-nita/clearfelt-diagram)**
+Reproducible Mermaid diagrams: render, theme-alias, and Cardinal Rules lint, as a framework-agnostic engine plus a thin Astro adapter.
+
 **[ai-agent-engineering](https://github.com/andrei-ionut-nita/ai-agent-engineering)**
 Hands-on AI agent engineering course: LangChain, LangGraph, LangSmith, MCP, pgvector, pggraph, and Pydantic AI, taught through 200 small, linear lessons.
 
 **[issue-search-skill](https://github.com/andrei-ionut-nita/issue-search-skill)**
 A local-first, offline-capable knowledge management system for capturing issues, generating postmortems, and retrieving proven solutions.
-
-**[clearfelt-diagram](https://github.com/andrei-ionut-nita/clearfelt-diagram)**
-Reproducible Mermaid diagrams: render, theme-alias, and Cardinal Rules lint, as a framework-agnostic engine plus a thin Astro adapter.
 
 ---
 
