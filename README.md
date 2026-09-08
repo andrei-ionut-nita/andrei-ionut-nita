@@ -10,6 +10,9 @@ Open to CTO and advisory conversations, Series B-D SaaS.
 
 ### What's here
 
+**[clearfelt-review](https://github.com/andrei-ionut-nita/clearfelt-review)**
+Evidence-backed strategic review tool: one canonical model drives traceable findings, prioritised recommendations, and an interactive HTML report, with nothing asserted without a source.
+
 **[clearfelt-writing](https://github.com/andrei-ionut-nita/clearfelt-writing)**
 Deterministic Claude Code skill that scores and rewrites AI-sounding writing, backed by a sourced rule dictionary instead of vibes.
 
